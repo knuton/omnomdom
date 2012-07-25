@@ -1,4 +1,9 @@
-omnomdom
-========
+```
+   omnomdom: Tasty, tasty DOM
 
-tasty tasty DOM
+\(*) /> <\
+     |> <|
+/(*) \> </
+
+Builder for DOM tree fragments.
+```
