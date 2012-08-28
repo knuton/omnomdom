@@ -56,7 +56,7 @@
       this.append(this.constructor.build.apply(null, slice(arguments, 0)));
     };
 
-    omnomdom.prototype.text = function () {
+    omnomdom.prototype.text = function (text) {
       this.append(text);
     };
 
